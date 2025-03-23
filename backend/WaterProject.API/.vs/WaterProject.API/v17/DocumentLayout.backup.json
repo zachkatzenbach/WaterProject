@@ -11,12 +11,20 @@
       "RelativeMoniker": "D:0:0:{3BC439FF-6846-4D34-8711-6E7CFD4F026C}|WaterProject.API.csproj|solutionrelative:controllers\\watercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BC439FF-6846-4D34-8711-6E7CFD4F026C}|WaterProject.API.csproj|c:\\users\\zachk\\onedrive\\desktop\\waterproject\\backend\\waterproject.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3BC439FF-6846-4D34-8711-6E7CFD4F026C}|WaterProject.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3BC439FF-6846-4D34-8711-6E7CFD4F026C}|WaterProject.API.csproj|c:\\users\\zachk\\onedrive\\desktop\\waterproject\\backend\\waterproject.api\\data\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3BC439FF-6846-4D34-8711-6E7CFD4F026C}|WaterProject.API.csproj|solutionrelative:data\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BC439FF-6846-4D34-8711-6E7CFD4F026C}|WaterProject.API.csproj|c:\\users\\zachk\\onedrive\\desktop\\waterproject\\backend\\waterproject.api\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{3BC439FF-6846-4D34-8711-6E7CFD4F026C}|WaterProject.API.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BC439FF-6846-4D34-8711-6E7CFD4F026C}|WaterProject.API.csproj|c:\\users\\zachk\\onedrive\\desktop\\waterproject\\backend\\waterproject.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3BC439FF-6846-4D34-8711-6E7CFD4F026C}|WaterProject.API.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BC439FF-6846-4D34-8711-6E7CFD4F026C}|WaterProject.API.csproj|c:\\users\\zachk\\onedrive\\desktop\\waterproject\\backend\\waterproject.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3BC439FF-6846-4D34-8711-6E7CFD4F026C}|WaterProject.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3BC439FF-6846-4D34-8711-6E7CFD4F026C}|WaterProject.API.csproj|c:\\users\\zachk\\onedrive\\desktop\\waterproject\\backend\\waterproject.api\\waterproject.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -34,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,16 +54,27 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\zachk\\OneDrive\\Desktop\\WaterProject\\backend\\WaterProject.API\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\zachk\\OneDrive\\Desktop\\WaterProject\\backend\\WaterProject.API\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-23T19:06:16.433Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "WaterController.cs",
               "DocumentMoniker": "C:\\Users\\zachk\\OneDrive\\Desktop\\WaterProject\\backend\\WaterProject.API\\Controllers\\WaterController.cs",
               "RelativeDocumentMoniker": "Controllers\\WaterController.cs",
               "ToolTip": "C:\\Users\\zachk\\OneDrive\\Desktop\\WaterProject\\backend\\WaterProject.API\\Controllers\\WaterController.cs",
               "RelativeToolTip": "Controllers\\WaterController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwDwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T21:19:26.511Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T21:19:26.511Z"
             },
             {
               "$type": "Document",
@@ -65,14 +84,26 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\zachk\\OneDrive\\Desktop\\WaterProject\\backend\\WaterProject.API\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-16T21:14:34.948Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\zachk\\OneDrive\\Desktop\\WaterProject\\backend\\WaterProject.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\zachk\\OneDrive\\Desktop\\WaterProject\\backend\\WaterProject.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-16T22:39:15.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "WaterDbContext.cs",
               "DocumentMoniker": "C:\\Users\\zachk\\OneDrive\\Desktop\\WaterProject\\backend\\WaterProject.API\\Data\\WaterDbContext.cs",
               "RelativeDocumentMoniker": "Data\\WaterDbContext.cs",
@@ -84,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Project.cs",
               "DocumentMoniker": "C:\\Users\\zachk\\OneDrive\\Desktop\\WaterProject\\backend\\WaterProject.API\\Data\\Project.cs",
               "RelativeDocumentMoniker": "Data\\Project.cs",
@@ -96,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\zachk\\OneDrive\\Desktop\\WaterProject\\backend\\WaterProject.API\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -108,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "WaterProject.API.csproj",
               "DocumentMoniker": "C:\\Users\\zachk\\OneDrive\\Desktop\\WaterProject\\backend\\WaterProject.API\\WaterProject.API.csproj",
               "RelativeDocumentMoniker": "WaterProject.API.csproj",
