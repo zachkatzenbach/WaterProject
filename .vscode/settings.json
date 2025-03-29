@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "/subscriptions/d9aa2909-302e-4f47-b065-bc4dcb7542c1/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/WaterProject-Katzenbach-Backend",
+  "appService.deploySubpath": "backend\\WaterProject.API\\publish"
+}
