@@ -70,3 +70,9 @@ C:\Users\zachk\OneDrive\Desktop\WaterProject\backend\WaterProject.API\obj\Debug\
 C:\Users\zachk\OneDrive\Desktop\WaterProject\backend\WaterProject.API\obj\Debug\net8.0\ref\WaterProject.API.dll
 C:\Users\zachk\OneDrive\Desktop\WaterProject\backend\WaterProject.API\obj\Debug\net8.0\WaterProject.API.sourcelink.json
 C:\Users\zachk\OneDrive\Desktop\WaterProject\backend\WaterProject.API\bin\Debug\net8.0\WaterProject.sqlite
+C:\Users\zachk\OneDrive\Desktop\WaterProject\backend\WaterProject.API\bin\Debug\net8.0\publish\web.config
+C:\Users\zachk\OneDrive\Desktop\WaterProject\backend\WaterProject.API\bin\Debug\net8.0\publish\appsettings.Development.json
+C:\Users\zachk\OneDrive\Desktop\WaterProject\backend\WaterProject.API\bin\Debug\net8.0\publish\appsettings.json
+C:\Users\zachk\OneDrive\Desktop\WaterProject\backend\WaterProject.API\bin\Debug\net8.0\publish\WaterProject.API.deps.json
+C:\Users\zachk\OneDrive\Desktop\WaterProject\backend\WaterProject.API\bin\Debug\net8.0\publish\WaterProject.API.runtimeconfig.json
+C:\Users\zachk\OneDrive\Desktop\WaterProject\backend\WaterProject.API\bin\Debug\net8.0\publish\WaterProject.API.staticwebassets.endpoints.json
