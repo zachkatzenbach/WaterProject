@@ -1,5 +1,6 @@
 import { useEffect, useState } from 'react';
-import { Project } from './types/Projects';
+import { Project } from '../types/Projects';
+import { useNavigate } from 'react-router-dom';
 
 function ProjectList({ selectedCategories }: { selectedCategories: string[] }) {
   const [projects, setProjects] = useState<Project[]>([]);
@@ -7,15 +8,16 @@ function ProjectList({ selectedCategories }: { selectedCategories: string[] }) {
   const [pageNum, setPageNum] = useState<number>(1);
   const [totalItems, setTotalItems] = useState<number>(0);
   const [totalPages, setTotalPages] = useState<number>(0);
+  const navigate = useNavigate();
 
   useEffect(() => {
     const fetchProjects = async () => {
-      const cateogryParams = selectedCategories
+      const categoryParams = selectedCategories
         .map((cat) => `projectTypes=${encodeURIComponent(cat)}`)
         .join('&');
 
       const response = await fetch(
-        `http://localhost:5149/api/Water/AllProjects?pageSize=${pageSize}&pageNum=${pageNum}${selectedCategories.length ? `&${cateogryParams}` : ''}`,
+        `http://localhost:5149/api/Water/AllProjects?pageSize=${pageSize}&pageNum=${pageNum}${selectedCategories.length ? `&${categoryParams}` : ''}`,
         {
           credentials: 'include',
         }
@@ -60,6 +62,14 @@ function ProjectList({ selectedCategories }: { selectedCategories: string[] }) {
                 {p.projectFunctionalityStatus}
               </li>
             </ul>
+            <button
+              className="btn btn-success"
+              onClick={() =>
+                navigate(`/donate/${p.projectName}/${p.projectId}`)
+              }
+            >
+              Donate
+            </button>
           </div>
         </div>
       ))}
